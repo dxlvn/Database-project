@@ -1,0 +1,121 @@
+header{
+	margin-left: 510px;
+	color: #010507;
+	font-size: 20px;
+	font-weight:bold;
+	padding: 5px;
+}
+
+p.recap{
+	color: #0104FE;
+}
+
+div#content div.Programme{
+	background-color: #E3E3E3;
+	width: 50%;
+	margin:5px;
+}
+
+div#content div{
+	display: inline-block;
+	width:48%;
+}
+
+div#content div.leftbox{
+	background-color: #3C83A4;
+	vertical-align: top;
+
+}
+
+div#content div h1 ,p, iframe{
+	color: #050831;
+	margin: 35px;
+}
+
+div#content div.rightbox{
+	background-color: #2C637D;
+	
+}
+
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: #0C3C8A;
+	text-decoration: none;
+	padding: 8px;
+
+}
+
+
+nav.menu-nav ul li.btn:hover a{
+	color: #fff;
+	background-color: rgb(234,56,48);
+	transition:0.4s all;
+}
+
+div.Programme img{
+	color: #E3E3E3;
+	border-radius:50%;
+}
+
+
+p.p1{
+	color: #fff;
+	background-color: #050831;
+
+}
+p.p2{
+	color: #fff;
+	background-color: #050831;
+}
+body{
+	/*#9fafd0*/
+	color:black;
+	background-color: #b9c7e6;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image: url("../img/florida.jpg");
+	/*background-image: url("../img/florida.jpg");*/
+	background-repeat: no-repeat; 
+	/*background-position:100% 110%; */
+
+
+}
+
+a{
+	color: #050831;
+}
+h1.headline{
+	color: #E01915;
+	font-size: 28px;
+	padding: 20px;
+	margin-left: 450px;
+}
+
+table.aff{
+background-color: rgba(122,122,122,0.5);
+color: rgb(0, 0, 0);
+
+}
+
+table{
+background-color: rgba(255, 255, 128, .5);
+color: rgb(0, 0, 0);
+}
+
+
+	/*Pied de page*/
+
+
+footer{
+	background-color: rgba(52,110,193,0.9); 
+	color: #050831;
+}
+
+
+
